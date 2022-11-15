@@ -5,7 +5,7 @@
 int main()
 {
     //opening a file to read
-    FILE*str=fopen("C:\\Users\\Chris Odeh\\Desktop\\DATA SCIENCE\\d\\Adamprogram\\adamin1","r");
+    FILE*str=fopen("Adam.in","r");
     if(str == NULL)
     {
         printf("The file is empty");
